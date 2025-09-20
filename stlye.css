@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #b92b2b;
+}
+
+.visme_d {
+  width: 100%;
+  height: 100vh;
+}
